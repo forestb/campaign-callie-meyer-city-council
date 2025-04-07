@@ -36,6 +36,8 @@ __pycache__/
 /build/
 /output/
 /exports/
+*.tif
+*.TIF
 
 # Personal notes or scratchpads
 notes/
